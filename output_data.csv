@@ -1,0 +1,11 @@
+Name,Age,Height,Weight,Salary,City
+John,28.0,175.0,70.0,50000.0,New York
+Anna,24.0,160.0,55.0,62000.0,Los Angeles
+Peter,35.0,180.0,85.0,75000.0,Chicago
+Linda,,165.0,,48000.0,Houston
+James,29.0,,68.0,53000.0,Phoenix
+Tom,45.0,182.0,90.0,90000.0,Seattle
+Sara,,168.0,60.0,,Boston
+George,32.0,177.0,85.0,70000.0,Miami
+Amy,22.0,,55.0,61000.0,Dallas
+Ryan,33.0,180.0,75.0,80000.0,Denver
